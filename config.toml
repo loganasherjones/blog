@@ -2,7 +2,7 @@
 # Version : 0.4.3-BETA
 # Author : Thibaud Leprêtre
 
-baseURL = "/"
+baseURL = "https://www.loganasherjones.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Logan's Blog"

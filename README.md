@@ -12,4 +12,4 @@ hugo serve -D
 
 ## Creating a new post
 
-TODO: Figure out how to do this again.
+Just create new content in `content/post`. End it in `.md`. Set `draft: true` in the header while you're working on it. Once you're ready to publish, just push!
